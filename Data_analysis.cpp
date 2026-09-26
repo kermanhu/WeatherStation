@@ -1,8 +1,3 @@
-﻿// weather_manager.cpp
-// 编译：cl /std:c++17 /EHsc /utf-8 weather_manager.cpp
-// 或：  g++ -std=c++17 -O2 weather_manager.cpp -o weather.exe
-// 运行：./weather.exe [data.csv]   （默认 data.csv，相对当前工作目录）
-
 #define _CRT_SECURE_NO_WARNINGS
 #define NOMINMAX
 
